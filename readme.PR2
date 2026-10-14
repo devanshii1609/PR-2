@@ -1,0 +1,53 @@
+# 🎯 Pattern & Number Analyzer 🚀
+
+![Program Screenshot](PR2.png)
+
+## 🌟 Project Overview
+The **Pattern & Number Analyzer** is a beginner-friendly Python project that combines pattern generation and number analysis in one interactive program.
+
+### ✨ Features
+
+#### 🔺 Module 1: Pattern Generator
+- Generates a Right-Angled Triangle pattern.
+- Demonstrates the use of nested **FOR** loops.
+- Demonstrates the use of **WHILE** loops.
+- Allows users to choose the number of rows.
+
+#### 🔢 Module 2: Number Analyzer
+- Accepts a starting and ending number.
+- Identifies numbers as **Odd 🟣** or **Even 🔵**.
+- Displays a detailed number breakdown.
+- Calculates the total sum of all numbers in the selected range.
+
+## 📸 Program Output
+The screenshot below demonstrates the application in action:
+
+📷 **See attached image: PR2.png**
+
+## 🛠️ Concepts Used
+- Python Basics 🐍
+- Variables & Input Handling 🎛️
+- Conditional Statements ⚡
+- FOR Loops 🔄
+- WHILE Loops 🔁
+- Nested Loops 🧩
+- Mathematical Operations ➕
+- Console Formatting 🖥️
+
+## 📋 Sample Workflow
+1. Enter the number of rows.
+2. Generate triangle patterns using FOR and WHILE loops.
+3. Enter a starting and ending number.
+4. View Odd/Even classification.
+5. Get the total sum of the selected range.
+
+## 🎓 Learning Objectives
+This project helps students understand:
+- Loop structures and repetition.
+- Pattern creation techniques.
+- Number classification logic.
+- Range-based calculations.
+- User interaction in Python.
+
+## 🏆 Conclusion
+This project is a creative combination of **pattern generation** and **number analysis**, making it an excellent practice program for beginners learning Python programming. 🚀✨
